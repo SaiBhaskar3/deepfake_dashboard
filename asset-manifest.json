@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/deepfake_dashboard/static/css/main.cfa9771d.css",
-    "main.js": "/deepfake_dashboard/static/js/main.7c83dc66.js",
+    "main.js": "/deepfake_dashboard/static/js/main.dd6d21f6.js",
     "static/js/453.195717ae.chunk.js": "/deepfake_dashboard/static/js/453.195717ae.chunk.js",
     "index.html": "/deepfake_dashboard/index.html",
     "main.cfa9771d.css.map": "/deepfake_dashboard/static/css/main.cfa9771d.css.map",
-    "main.7c83dc66.js.map": "/deepfake_dashboard/static/js/main.7c83dc66.js.map",
+    "main.dd6d21f6.js.map": "/deepfake_dashboard/static/js/main.dd6d21f6.js.map",
     "453.195717ae.chunk.js.map": "/deepfake_dashboard/static/js/453.195717ae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cfa9771d.css",
-    "static/js/main.7c83dc66.js"
+    "static/js/main.dd6d21f6.js"
   ]
 }
